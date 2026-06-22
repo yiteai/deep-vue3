@@ -45,7 +45,9 @@
 ---
 ## 中文版
 
-# Vue 的三次重写：从 Angular 指令到 Proxy 响应式的演进史
+# 深入 Vue 3：从历史演进到引擎原理
+
+> 不是 Vue 3 教程，是 Vue 3 原理书。从 Evan You 的三次重写决策到 Proxy 响应式引擎、模板编译器、Diff 算法的完整内部机制。四层结构每章同时服务 1-3年、3-5年和资深前端工程师：Level 1 直接结论、Level 2 引擎内部、Level 3 Vue 3 源码与设计文档、Level 4 高频易错陷阱。32章，覆盖历史哲学、响应式系统、模板编译、渲染器、Composition API、状态路由、动画错误安全、性能工程全栈。
 
 **📖 在线免费阅读全文:[https://tools.yiteai.com/books/vue3](https://tools.yiteai.com/books/vue3)**
 
